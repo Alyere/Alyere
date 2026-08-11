@@ -1,44 +1,44 @@
-#  Oiiee! Seja bem-vindo(a) ao meu GitHub.
+# Olá! Sou Alyere Targino 👋
+> Estudante de Ciência da Computação @ UNIESP | Entusiasta de Dados, Backend & IA
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6ZzR6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/M9Zp1775i7W3U/giphy.gif" width="280" alt="Estudando Ciência da Computação" />
+Bem-vindo(a) ao meu perfil no GitHub! Aqui é o meu laboratório técnico, onde documento minha evolução acadêmica, desenvolvo projetos práticos e aplico conceitos de arquitetura de software, ciência de dados e inteligência artificial para resolver problemas reais.
 
-  **Alyere Targino**  
-  **Estudante de Ciência da Computação  @ UNIESP**
+---
 
-  ---
+### 🌐 Visão & Ecossistema (Alyere Tech)
 
-  ### 🎓 Formação Acadêmica
-  *Focada em construir um alicerce sólido através da graduação na UNIESP:*
+Acredito que a tecnologia atinge seu valor máximo quando aliada à **eficiência, estratégia de negócios e boa comunicação**. No meu projeto **Alyere Tech**, conecto o código escrito aqui com uma narrativa de resolução de problemas, documentando minha jornada, bastidores de projetos e insights sobre a área.
 
-  * **Lógica & Algoritmos:** Desenvolvimento do pensamento analítico para resolução de problemas complexos.
-  * **Modelagem de Dados:** Estudo focado em arquitetura, integridade e manipulação de bases **SQL** (PostgreSQL e MySQL).
-  * **Desenvolvimento Backend:** Aprendendo os fundamentos e a construção de aplicações com **Java Spring Boot**.
-  * **Gestão de Projetos:** Praticando organização e fluxos de trabalho através de metodologias ágeis como **Scrum e Kanban**.
+* **Portfólio & Conteúdo:** [@alyere.tech](https://instagram.com/alyere.tech)
 
-  ---
+---
 
-  ### 🧠 (Self-Learning)
-  *Áreas que exploro de forma independente para expandir meu conhecimento:*
+### 🎓 Formação Acadêmica
 
-  * **Machine Learning:** Explorando como algoritmos identificam padrões lógicos em dados estruturados.
-  * **Deep Learning & Neurocomputação:** Investigando a lógica matemática e arquiteturas inspiradas em processos biológicos.
-  * **Automação de Dados:** Aplicando Python para otimizar a extração inteligente e o processamento de informações.
-  * **Engenharia de Prompt:** Estudando a otimização de fluxos de trabalho e produtividade com IAs generativas.
+Construindo um alicerce teórico e prático sólido na graduação:
 
-  ---
+- 🧠 **Lógica & Algoritmos:** Raciocínio analítico para resolução de problemas complexos.
+- 💾 **Modelagem de Dados:** Arquitetura, integridade e manipulação em SQL (PostgreSQL, MySQL).
+- ⚙️ **Desenvolvimento Backend:** Fundamentos e construção de APIs com Java Spring Boot.
+- 🛠️ **Gestão de Projetos:** Prática de fluxos de trabalho com metodologias ágeis (Scrum, Kanban).
 
-  ### 🛠️ Tecnologias em Evolução
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" title="Java"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" title="Spring"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" title="Python"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" title="MySQL"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" title="GitHub"/>
+---
 
-  ---
+### 🧠 Self-Learning & Pesquisa
 
-  ### 📬 
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alierytargino360@gmail.com)
-</div>
+Áreas que exploro de forma autônoma para expandir minhas habilidades:
+
+- 🤖 **Machine Learning & IA:** Identificação de padrões em dados estruturados e engenharia de prompt.
+- 🧬 **Deep Learning & Neurocomputação:** Investigação de redes inspiradas em processos biológicos.
+- 🐍 **Automação de Dados:** Processamento e extração inteligente de dados com Python.
+
+---
+
+### 🛠️ Stacks & Ferramentas
+
+`Java` • `Spring Boot` • `Python` • `PostgreSQL` • `MySQL` • `Docker` • `Git & GitHub`
+
+---
+
+📫 **Vamos nos conectar?**  
+ [Instagram Alyere Tech](https://instagram.com/alyere.tech)
